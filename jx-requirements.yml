@@ -20,7 +20,7 @@ spec:
   - key: staging
   - key: production
   ingress:
-    domain: ""
+    domain: "tk6-rancher02.infra.sie.sony.com"
     externalDNS: false
     namespaceSubDomain: -jx.
     tls:
